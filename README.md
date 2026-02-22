@@ -1,1 +1,2 @@
-# IITPokerBOT
+# 
+PokerBOT
